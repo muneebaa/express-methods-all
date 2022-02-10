@@ -73,6 +73,6 @@ app.delete("/api/people/:id", (req,res) => {
 
 })
 
-app.listen(5000, () => {
+app.listen(https://muneeba-dilawaze-express-methods.netlify.app/, () => {
     console.log('Server is listening on port 5000....')
 })
